@@ -1,0 +1,9 @@
+h1 {color: brown;}
+h2 {color: brown;}
+h3 {color: brown; margin-top: 40px;}
+.dom {color:blue;}
+.currency-info{border: 1px solid rgb(255, 38, 38); padding: 0 60px 0 0;  background-color: aqua; margin: 12;}
+ .simple-todo{color: aqua;}
+ #ValueA{width: 50px;}
+ #ValueB{width: 50px;}
+ #result{width: 100px;}
