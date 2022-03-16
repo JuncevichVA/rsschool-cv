@@ -45,4 +45,12 @@ I am 32 old.I am an engineer in a big company. I want to change my life. I want 
    }
 ```
 
+## Experience
+
+1. The BYTECH Company 2015-2017 Engineer
+2. The BYTECH Company 2017-2019 Project Engineer
+3. The BYTECH Company 2019-2022-Lead Maintenance and Test Engineer
+
+## Language:
+English level - A2
 
