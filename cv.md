@@ -13,6 +13,13 @@
 
 I am 32 old.I am an engineer in a big company. I want to change my life. I want to learn Front-End Development in RSSchool!
 
+## Skills
+
+* HTML/CSS
+* SQL
+* C#
+* JavaScript (Basic)
+
 ## Code example:
 
 ```
